@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdiumSetVersion</key>
+	<integer>1</integer>
+	<key>Emoticons</key>
+	<dict>
+		
+		<key>Angel.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>O:)</string>
+				<string>0:)</string>
+				<string>O:-)</string>
+				<string>0:-)</string>
+				<string>o:)</string>
+				<string>o:-)</string>
+				<string>(A)</string>
+			</array>
+			<key>Name</key>
+			<string>Angel</string>
+		</dict>
+		
+		<key>Angry.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:@</string>
+				<string>:-@</string>
+				<string>):(</string>
+			</array>
+			<key>Name</key>
+			<string>Angry</string>
+		</dict>
+		
+		<key>Aww.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>'w'</string>
+				<string>'W'</string>
+				<string>*w*</string>
+				<string>*W*</string>
+				<string>°w°</string>
+				<string>°W°</string>
+				<string>:}</string>
+				<string>:-}</string>
+			</array>
+			<key>Name</key>
+			<string>Aww...</string>
+		</dict>
+		
+		<key>Aww_2.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>^w^</string>
+				<string>^W^</string>
+			</array>
+			<key>Name</key>
+			<string>Happy Aww...</string>
+		</dict>
+		
+		<key>Blushing.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:'></string>
+				<string>:"></string>
+			</array>
+			<key>Name</key>
+			<string>Blushing</string>
+		</dict>
+		
+		<key>Childish.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:C</string>
+				<string>:c</string>
+				<string>:-C</string>
+				<string>:-c</string>
+			</array>
+			<key>Name</key>
+			<string>Childish</string>
+		</dict>
+		
+		<key>Confused.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:S</string>
+				<string>:s</string>
+				<string>:-S</string>
+				<string>:-s</string>
+			</array>
+			<key>Name</key>
+			<string>Confused</string>
+		</dict>
+		
+		<key>Creepy.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:E</string>
+				<string>:-E</string>
+			</array>
+			<key>Name</key>
+			<string>Creepy</string>
+		</dict>
+		
+		<key>Crying.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:'(</string>
+				<string>:'-(</string>
+				<string>:"(</string>
+				<string>:"-(</string>
+				<string>:*(</string>
+				<string>:*-(</string>
+				<string>:'[</string>
+				<string>:'C</string>
+				<string>='(</string>
+			</array>
+			<key>Name</key>
+			<string>Crying</string>
+		</dict>
+		
+		<key>Cthulhu.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>8E</string>
+				<string>8-E</string>
+			</array>
+			<key>Name</key>
+			<string>Cthulhu</string>
+		</dict>
+		
+		<key>Cute.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:3</string>
+				<string>:-3</string>
+			</array>
+			<key>Name</key>
+			<string>Cute</string>
+		</dict>
+		
+		<key>Cute_Winking.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>;3</string>
+				<string>;-3</string>
+			</array>
+			<key>Name</key>
+			<string>Cute, Winking</string>
+		</dict>
+		
+		<key>Devil.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&gt;:)</string>
+				<string>&gt;:-)</string>
+				<string>(6)</string>
+			</array>
+			<key>Name</key>
+			<string>Devil</string>
+		</dict>
+		
+		<key>Gah.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&gt;_&lt;</string>
+				<string>&gt;&lt;</string>
+				<string>&gt;__&lt;</string>
+			</array>
+			<key>Name</key>
+			<string>Gah</string>
+		</dict>
+		
+		<key>Gah_2.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&gt;.&lt;</string>
+				<string>&gt;,&lt;</string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>Name</key>
+			<string>Gah!</string>
+		</dict>
+		
+		<key>Gasping.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:O</string>
+				<string>:o</string>
+				<string>:-O</string>
+				<string>:-o</string>
+				<string>:0</string>
+				<string>:-0</string>
+				<string>=O</string>
+				<string>=o</string>
+			</array>
+			<key>Name</key>
+			<string>Gasping</string>
+		</dict>
+		
+		<key>Greedy.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>$)</string>
+				<string>$-)</string>
+			</array>
+			<key>Name</key>
+			<string>Greedy</string>
+		</dict>
+		
+		<key>Grinning.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:D</string>
+				<string>:-D</string>
+				<string>=D</string>
+			</array>
+			<key>Name</key>
+			<string>Grinning</string>
+		</dict>
+		
+		<key>Grinning_Winking.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>;D</string>
+				<string>;-D</string>
+			</array>
+			<key>Name</key>
+			<string>Grinning and winking</string>
+		</dict>
+		
+		<key>Happy.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>^^</string>
+			</array>
+			<key>Name</key>
+			<string>Happy</string>
+		</dict>
+		
+		<key>Happy_2.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>^_^</string>
+				<string>^-^</string>
+				<string>^__^</string>
+				<string>^___^</string>
+			</array>
+			<key>Name</key>
+			<string>Happy (variant II)</string>
+		</dict>
+		
+		<key>Happy_3.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>^.^</string>
+				<string>^,^</string>
+			</array>
+			<key>Name</key>
+			<string>Happy (variant III)</string>
+		</dict>
+		
+		<key>Heart.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&lt;3</string>
+				<string>(L)</string>
+			</array>
+			<key>Name</key>
+			<string>Heart</string>
+		</dict>
+		
+		<key>Huh.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>o.O</string>
+				<string>o_O</string>
+				<string>o,O</string>
+				<string>o__O</string>
+				<string>o.0</string>
+				<string>o_0</string>
+				<string>o,0</string>
+				<string>o__0</string>
+				<string>O.O</string>
+				<string>O_O</string>
+				<string>O,O</string>
+				<string>O__O</string>
+				<string>0.0</string>
+				<string>0_0</string>
+				<string>0,0</string>
+				<string>0__0</string>
+				<string>o.o</string>
+				<string>o_o</string>
+				<string>o,o</string>
+				<string>o__o</string>
+			</array>
+			<key>Name</key>
+			<string>Huh?</string>
+		</dict>
+		
+		<key>Huh_2.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>O.o</string>
+				<string>O_o</string>
+				<string>O,o</string>
+				<string>O__o</string>
+				<string>0.o</string>
+				<string>0_o</string>
+				<string>0,o</string>
+				<string>0__o</string>
+			</array>
+			<key>Name</key>
+			<string>Huh? (variant II)</string>
+		</dict>
+		
+		<key>Laughing.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>XD</string>
+				<string>xD</string>
+				<string>X-D</string>
+				<string>x-D</string>
+			</array>
+			<key>Name</key>
+			<string>Laughing</string>
+		</dict>
+		
+		<key>Lips_Sealed.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:X</string>
+				<string>:x</string>
+				<string>:-X</string>
+				<string>:-x</string>
+			</array>
+			<key>Name</key>
+			<string>Lips Sealed</string>
+		</dict>
+		
+		<key>Madness.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>8D</string>
+				<string>8-D</string>
+			</array>
+			<key>Name</key>
+			<string>Madness</string>
+		</dict>
+		
+		<key>Malicious.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>):D</string>
+				<string>):-D</string>
+				<string>]:D</string>
+				<string>]:-D</string>
+			</array>
+			<key>Name</key>
+			<string>Malicious</string>
+		</dict>
+		
+		<key>Sick.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:&amp;</string>
+				<string>:-&amp;</string>
+			</array>
+			<key>Name</key>
+			<string>Sick</string>
+		</dict>
+		
+		<key>Smiling.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:)</string>
+				<string>:-)</string>
+				<string>=)</string>
+				<string>:]</string>
+				<string>:-]</string>
+				<string>(:</string>
+			</array>
+			<key>Name</key>
+			<string>Smiling</string>
+		</dict>
+		
+		<key>Speechless.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:I</string>
+				<string>:-I</string>
+				<string>:|</string>
+				<string>:-|</string>
+				<string>:l</string>
+				<string>:-l</string>
+			</array>
+			<key>Name</key>
+			<string>Speechless</string>
+		</dict>
+		
+		<key>Spiteful.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>):)</string>
+				<string>):-)</string>
+				<string>]:)</string>
+				<string>]:-)</string>
+			</array>
+			<key>Name</key>
+			<string>Spiteful</string>
+		</dict>
+		
+		<key>Stupid.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>8)</string>
+				<string>8-)</string>
+			</array>
+			<key>Name</key>
+			<string>Stupid</string>
+		</dict>
+		
+		<key>Sunglasses.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>B)</string>
+				<string>B-)</string>
+			</array>
+			<key>Name</key>
+			<string>Sunglasses</string>
+		</dict>
+		
+		<key>Terrified.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>D:</string>
+				<string>D-:</string>
+			</array>
+			<key>Name</key>
+			<string>Terrified</string>
+		</dict>
+		
+		<key>Tired.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>-.-</string>
+				<string>-_-</string>
+				<string>-__-</string>
+				<string>--__--</string>
+				<string>-___-</string>
+				<string>--___--</string>
+			</array>
+			<key>Name</key>
+			<string>Tired</string>
+		</dict>
+		
+		<key>Tongue_Out.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:P</string>
+				<string>:p</string>
+				<string>=P</string>
+				<string>=p</string>
+				<string>:-P</string>
+				<string>:-p</string>
+			</array>
+			<key>Name</key>
+			<string>Tongue hanging out</string>
+		</dict>
+		
+		<key>Tongue_Out_Laughing.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>xP</string>
+				<string>Xp</string>
+				<string>x-P</string>
+				<string>X-p</string>
+			</array>
+			<key>Name</key>
+			<string>Tongue out and Laughing</string>
+		</dict>
+		
+		<key>Tongue_Out_Left.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:b</string>
+				<string>:-b</string>
+			</array>
+			<key>Name</key>
+			<string>Tongue hanging out (left)</string>
+		</dict>
+		
+		<key>Tongue_Out_Up.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:q</string>
+				<string>:-q</string>
+			</array>
+			<key>Name</key>
+			<string>Tongue hanging up</string>
+		</dict>
+		
+		<key>Tongue_Out_Up_Left.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:d</string>
+				<string>:-d</string>
+			</array>
+			<key>Name</key>
+			<string>Tongue hanging up (left)</string>
+		</dict>
+		
+		<key>Tongue_Out_Winking.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>;P</string>
+				<string>;p</string>
+				<string>;-P</string>
+				<string>;-p</string>
+			</array>
+			<key>Name</key>
+			<string>Tongue out and Winking</string>
+		</dict>
+		
+		<key>Uncertain.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:/</string>
+				<string>:-/</string>
+			</array>
+			<key>Name</key>
+			<string>Uncertain</string>
+		</dict>
+		
+		<key>Uncertain.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:\</string>
+				<string>:-\</string>
+			</array>
+			<key>Name</key>
+			<string>Uncertain (variant II)</string>
+		</dict>
+		
+		<key>Unhappy.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:(</string>
+				<string>:-(</string>
+				<string>=(</string>
+				<string>:[</string>
+				<string>:-[</string>
+				<string>):</string>
+			</array>
+			<key>Name</key>
+			<string>Unhappy</string>
+		</dict>
+		
+		<key>Winking.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>;)</string>
+				<string>;-)</string>
+				<string>;]</string>
+				<string>;-]</string>
+				<string>(;</string>
+			</array>
+			<key>Name</key>
+			<string>Winking</string>
+		</dict>
+		
+		<key>Thumb_Up.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>(Y)</string>
+			</array>
+			<key>Name</key>
+			<string>Thumb Up</string>
+		</dict>
+		
+		<key>Thumb_Down.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>(N)</string>
+			</array>
+			<key>Name</key>
+			<string>Thumb Down</string>
+		</dict>
+		
+	</dict>
+</dict>
+</plist>

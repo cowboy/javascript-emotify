@@ -1,0 +1,40 @@
+Name=FeltTip Reprised
+Description=Crisp, redone versions of the FeltTip set.
+Icon=smile.png
+Author=Chromakode
+
+[default]
+smile.png   		:-) :)
+wink.png            ;-) ;)
+# Two types of grin smileys... lets make the old version secret!
+grin.png            :-D :D :d :-d
+! laughing.png      (old:-D) (old:D) (old:-d) (old:d)
+meh.png             :-P :P :-p :p
+frown.png           :-( :(
+boring.png          :-| :|
+halfsmile.png       :-J :J :-j :j
+sleeping.png        |-) |) (zzz)
+ohmygod.png         :-O :O
+huh.png             :-? :? (?)
+unimpressed.png     :-/ :/ :-\ :\
+angry.png           >:-O >:O >:-o >:o {-O {O {-o {o
+sour.png            :-$ :$ :-S :S :-s :s
+sick.png            :-@ :@
+dead.png            X-P X-P +-P +P
+aww.png             :-} :}
+blush.png           :-> :> :#)
+love.png            :-* :* (l) (L) \~/s
+cool.png            B-) B)
+nerd.png            8-) 8-i
+yeah.png            X-D XD
+heh.png             ;-P ;P ;-p ;p
+err.png             {:-D {:D oo; OO;
+hellyes.png         >:-D >:D
+erm.png             O_o o_O o.O O.o 0_o o_0 o.0 0.o
+whistling.png       :-" :"
+drool.png           :-D~ :D~
+peaceout.png        :)>- (Y) (peace)
+ninja.png           (:) (ninja)
+star.png            (*)
+# Secret smiley #2, shameless chromakode logo plug
+! logo.png          (Chromakode) (chromakode)

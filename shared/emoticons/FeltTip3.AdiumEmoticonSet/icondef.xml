@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<icondef>
+	<meta>
+		<name>FeltTipReprised22 4 PSI</name>
+		<version>0.1</version>
+		<description>Gaim Iconset</description>
+		<creation>2005-01-12</creation>
+		<home>http://www.deviantart.com/deviation/11491327/</home>
+	</meta>
+	
+<icon><object mime='image/png'>smile.png</object>
+   		<text>:-)</text> <text>:)</text>
+</icon>
+
+<icon><object mime='image/png'>wink.png</object>
+            <text>;-)</text> <text>;)</text>
+</icon>
+
+<icon><object mime='image/png'>grin.png</object>
+            <text>:-D</text> <text>:D</text> <text>:d</text> <text>:-d</text>
+</icon>
+
+<icon><object mime='image/png'>laughing.png</object>
+      <text>(old:-D)</text> <text>(old:D)</text> <text>(old:-d)</text> <text>(old:d)</text>
+</icon>
+
+<icon><object mime='image/png'>meh.png</object>
+             <text>:-P</text> <text>:P</text> <text>:-p</text> <text>:p</text>
+</icon>
+
+<icon><object mime='image/png'>frown.png</object>
+           <text>:-(</text> <text>:(</text>
+</icon>
+
+<icon><object mime='image/png'>boring.png</object>
+          <text>:-|</text> <text>:|</text>
+</icon>
+
+<icon><object mime='image/png'>halfsmile.png</object>
+       <text>:-J</text> <text>:J</text> <text>:-j</text> <text>:j</text>
+</icon>
+
+<icon><object mime='image/png'>sleeping.png</object>
+        <text>|-)</text> <text>|)</text> <text>(zzz)</text>
+</icon>
+
+<icon><object mime='image/png'>ohmygod.png</object>
+         <text>:-O</text> <text>:O</text>
+</icon>
+
+<icon><object mime='image/png'>huh.png</object>
+             <text>:-?</text> <text>:?</text> <text>(?)</text>
+</icon>
+
+<icon><object mime='image/png'>unimpressed.png</object>
+     <text>:-/</text> <text>:/</text> <text>:-\</text> <text>:\</text>
+</icon>
+
+<icon><object mime='image/png'>angry.png</object>
+           <text>>:-O</text> <text>>:O</text> <text>>:-o</text> <text>>:o</text> <text>{-O</text> <text>{O</text> <text>{-o</text> <text>{o</text>
+</icon>
+
+<icon><object mime='image/png'>sour.png</object>
+            <text>:-$</text> <text>:$</text> <text>:-S</text> <text>:S</text> <text>:-s</text> <text>:s</text>
+</icon>
+
+<icon><object mime='image/png'>sick.png</object>
+            <text>:-@</text> <text>:@</text>
+</icon>
+
+<icon><object mime='image/png'>dead.png</object>
+            <text>X-P</text> <text>X-P</text> <text>+-P</text> <text>+P</text>
+</icon>
+
+<icon><object mime='image/png'>aww.png</object>
+             <text>:-}</text> <text>:}</text>
+</icon>
+
+<icon><object mime='image/png'>blush.png</object>
+           <text>:-&gt;</text> <text>:&gt;</text> <text>:#)</text>
+</icon>
+
+<icon><object mime='image/png'>love.png</object>
+            <text>:-*</text> <text>:*</text> <text>(l)</text> <text>(L)</text> <text>\~/s</text>
+</icon>
+
+<icon><object mime='image/png'>cool.png</object>
+            <text>B-)</text> <text>B)</text>
+</icon>
+
+<icon><object mime='image/png'>nerd.png</object>
+            <text>8-)</text> <text>8-i</text>
+</icon>
+
+<icon><object mime='image/png'>yeah.png</object>
+            <text>X-D</text> <text>XD</text>
+</icon>
+
+<icon><object mime='image/png'>heh.png</object>
+             <text>;-P</text> <text>;P</text> <text>;-p</text> <text>;p</text>
+</icon>
+
+<icon><object mime='image/png'>err.png</object>
+             <text>{:-D</text> <text>{:D</text> 
+             <text>oo;</text> <text>OO;</text>
+</icon>
+
+<icon><object mime='image/png'>hellyes.png</object>
+         <text>&gt;:-D</text> <text>&gt;:D</text>
+</icon>
+
+<icon><object mime='image/png'>erm.png</object>
+             <text>O_o</text> <text>o_O</text> 
+             <text>o.O</text> <text>O.o</text> 
+             <text>0_o</text> <text>o_0</text> <text>o.0</text> <text>0.o</text>
+</icon>
+
+<icon><object mime='image/png'>whistling.png</object>
+       <text>:-"</text> <text>:"</text>
+</icon>
+
+<icon><object mime='image/png'>drool.png</object>
+           <text>:-D~</text> <text>:D~</text>
+</icon>
+
+<icon><object mime='image/png'>peaceout.png</object>
+        <text>:)>-</text> <text>(Y)</text> <text>(peace)</text>
+</icon>
+
+<icon><object mime='image/png'>ninja.png</object>
+           <text>(:)</text> <text>(ninja)</text>
+</icon>
+
+<icon><object mime='image/png'>star.png</object>
+            <text>(*)</text>
+</icon>
+
+<icon><object mime='image/png'>logo.png</object>
+          <text>(Chromakode)</text> <text>(chromakode)</text>
+
+</icon>
+
+</icondef>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>AdiumSetVersion</key>
+        <integer>1</integer>
+        <key>Emoticons</key>
+	<dict>
+
+	<key>smile.png</key>
+	<dict>
+		<key>Name</key>
+		<string>smile</string>
+		<key>Equivalents</key>
+		<array>
+			<string>:-)</string> 
+			<string>:)</string>
+		</array>
+	</dict>
+
+	<key>wink.png</key><dict><key>Name</key><string>wink</string>
+	
+		<key>Equivalents</key>
+		<array>
+			<string>;-)</string> 
+			<string>;)</string>
+		</array>
+	</dict>
+<key>grin.png</key><dict><key>Name</key><string>grin</string>
+<key>Equivalents</key><array><string>:-D</string> <string>:D</string> <string>:d</string> <string>:-d</string></array>
+</dict>
+
+<key>laughing.png</key><dict><key>Name</key><string>laughing</string>
+<key>Equivalents</key><array><string>(old:-D)</string> <string>(old:D)</string> <string>(old:-d)</string> <string>(old:d)</string></array>
+</dict>
+
+<key>meh.png</key><dict><key>Name</key><string>meh</string>
+<key>Equivalents</key><array><string>:-P</string> <string>:P</string> <string>:-p</string> <string>:p</string></array>
+</dict>
+
+<key>frown.png</key><dict><key>Name</key><string>frown</string>
+<key>Equivalents</key><array><string>:-(</string> <string>:(</string></array>
+</dict>
+
+<key>boring.png</key><dict><key>Name</key><string>boring</string>
+<key>Equivalents</key><array><string>:-|</string> <string>:|</string></array>
+</dict>
+
+<key>halfsmile.png</key><dict><key>Name</key><string>halfsmile</string>
+<key>Equivalents</key><array><string>:-J</string> <string>:J</string> <string>:-j</string> <string>:j</string></array>
+</dict>
+
+<key>sleeping.png</key><dict><key>Name</key><string>sleeping</string>
+<key>Equivalents</key><array><string>|-)</string> <string>|)</string> <string>(zzz)</string></array>
+</dict>
+
+<key>ohmygod.png</key><dict><key>Name</key><string>ohmygod</string>
+<key>Equivalents</key><array><string>:-O</string> <string>:O</string></array>
+</dict>
+
+<key>huh.png</key><dict><key>Name</key><string>huh</string>
+<key>Equivalents</key><array><string>:-?</string> <string>:?</string> <string>(?)</string></array>
+</dict>
+
+<key>unimpressed.png</key><dict><key>Name</key><string>unimpressed</string>
+<key>Equivalents</key><array><string>:-/</string> <string>:/</string> <string>:-\</string> <string>:\</string></array>
+</dict>
+
+<key>angry.png</key><dict><key>Name</key><string>angry</string>
+<key>Equivalents</key><array><string>>:-O</string> <string>>:O</string> <string>>:-o</string> <string>>:o</string> <string>{-O</string> <string>{O</string> <string>{-o</string> <string>{o</string></array>
+</dict>
+
+<key>sour.png</key><dict><key>Name</key><string>sour</string>
+<key>Equivalents</key><array><string>:-$</string> <string>:$</string> <string>:-S</string> <string>:S</string> <string>:-s</string> <string>:s</string></array>
+</dict>
+
+<key>sick.png</key><dict><key>Name</key><string>sick</string>
+<key>Equivalents</key><array><string>:-@</string> <string>:@</string></array>
+</dict>
+
+<key>dead.png</key><dict><key>Name</key><string>dead</string>
+<key>Equivalents</key><array><string>X-P</string> <string>X-P</string> <string>+-P</string> <string>+P</string></array>
+</dict>
+
+<key>aww.png</key><dict><key>Name</key><string>aww</string>
+<key>Equivalents</key><array><string>:-}</string> <string>:}</string></array>
+</dict>
+
+<key>blush.png</key><dict><key>Name</key><string>blush</string>
+<key>Equivalents</key><array><string>:-&gt;</string> <string>:&gt;</string> <string>:#)</string></array>
+</dict>
+
+<key>love.png</key><dict><key>Name</key><string>love</string>
+<key>Equivalents</key><array><string>:-*</string> <string>:*</string> <string>(l)</string> <string>(L)</string> <string>\~/s</string></array>
+</dict>
+
+<key>cool.png</key><dict><key>Name</key><string>cool</string>
+<key>Equivalents</key><array><string>B-)</string> <string>B)</string></array>
+</dict>
+
+<key>nerd.png</key><dict><key>Name</key><string>nerd</string>
+<key>Equivalents</key><array><string>8-)</string> <string>8-i</string></array>
+</dict>
+
+<key>yeah.png</key><dict><key>Name</key><string>yeah</string>
+<key>Equivalents</key><array><string>X-D</string> <string>XD</string></array>
+</dict>
+
+<key>heh.png</key><dict><key>Name</key><string>heh</string>
+<key>Equivalents</key><array><string>;-P</string> <string>;P</string> <string>;-p</string> <string>;p</string></array>
+</dict>
+
+<key>err.png</key><dict><key>Name</key><string>err</string>
+<key>Equivalents</key><array><string>{:-D</string> <string>{:D</string> 
+<string>oo;</string> <string>OO;</string></array>
+</dict>
+
+<key>hellyes.png</key><dict><key>Name</key><string>hellyes</string>
+<key>Equivalents</key><array><string>&gt;:-D</string> <string>&gt;:D</string></array>
+</dict>
+
+<key>erm.png</key><dict><key>Name</key><string>erm</string>
+<key>Equivalents</key><array><string>O_o</string> <string>o_O</string> 
+<string>o.O</string> <string>O.o</string> 
+<string>0_o</string> <string>o_0</string> <string>o.0</string> <string>0.o</string></array>
+</dict>
+
+<key>whistling.png</key><dict><key>Name</key><string>whistling</string>
+<key>Equivalents</key><array><string>:-"</string> <string>:"</string></array>
+</dict>
+
+<key>drool.png</key><dict><key>Name</key><string>drool</string>
+<key>Equivalents</key><array><string>:-D~</string> <string>:D~</string></array>
+</dict>
+
+<key>star.png</key><dict><key>Name</key><string>star</string>
+<key>Equivalents</key><array><string>(*)</string></array>
+</dict>
+
+<key>peaceout.png</key><dict><key>Name</key><string>peaceout</string>
+<key>Equivalents</key><array><string>:)>-</string> <string>(Y)</string> <string>(peace)</string></array>
+</dict>
+
+<key>ninja.png</key><dict><key>Name</key><string>ninja</string>
+<key>Equivalents</key><array><string>(:)</string> <string>(ninja)</string></array>
+</dict>
+
+
+<key>logo.png</key><dict><key>Name</key><string>logo</string>
+	<key>Equivalents</key>
+	<array>
+		<string>(Chromakode)</string> 
+		<string>(chromakode)</string>
+	</array>
+</dict>
+</dict>
+</dict>
+
+
+</plist>

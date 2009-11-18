@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdiumSetVersion</key>
+	<integer>1</integer>
+	<key>Emoticons</key>
+	<dict>
+
+			<key>uptongue.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:q</string>
+				<string>=q</string>
+				<string>=-q</string>
+				<string>:-q</string>
+				<string>b:</string>
+				<string>b=</string>
+				<string>b-=</string>
+				<string>b-:</string>
+				<string>p:</string>
+				<string>p=</string>
+				<string>p-=</string>
+				<string>p-:</string>
+				<string>:d</string>
+				<string>=d</string>
+				<string>=-d</string>
+				<string>:-d</string>
+			</array>
+			<key>Name</key>
+			<string>q Tongue</string>
+		</dict>
+
+
+			<key>Z.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:Z</string>
+				<string>=Z</string>
+				<string>=-Z</string>
+				<string>:-Z</string>
+			</array>
+			<key>Name</key>
+			<string>Z Mouth</string>
+		</dict>
+
+
+			<key>Y.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:Y</string>
+				<string>=Y</string>
+				<string>=-Y</string>
+				<string>:-Y</string>
+			</array>
+			<key>Name</key>
+			<string>Y Mouth</string>
+		</dict>
+
+
+			<key>nose.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:^</string>
+				<string>=^</string>
+			</array>
+			<key>Name</key>
+			<string>^ Nose</string>
+		</dict>
+
+			<key>N.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:N</string>
+				<string>=N</string>
+				<string>=-N</string>
+				<string>:-N</string>
+			</array>
+			<key>Name</key>
+			<string>N Mouth</string>
+		</dict>
+
+
+			<key>P.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:P</string>
+				<string>=P</string>
+				<string>=-P</string>
+				<string>:-P</string>
+				<string>:p</string>
+				<string>=p</string>
+				<string>=-p</string>
+				<string>:-p</string>
+
+			</array>
+			<key>Name</key>
+			<string>P Tongue</string>
+		</dict>
+
+			<key>saaad.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:(</string>
+				<string>=(</string>
+				<string>=-(</string>
+				<string>:-(</string>
+				<string>):</string>
+				<string>)=</string>
+				<string>)-=</string>
+				<string>)-:</string>
+			</array>
+			<key>Name</key>
+			<string>( Frown</string>
+		</dict>
+
+			<key>K.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:K</string>
+				<string>=K</string>
+				<string>=-K</string>
+				<string>:-K</string>
+			</array>
+			<key>Name</key>
+			<string>K Face</string>
+		</dict>
+
+			<key>H.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:H</string>
+				<string>=H</string>
+				<string>=-H</string>
+				<string>:-H</string>
+			</array>
+			<key>Name</key>
+			<string>H Teeth</string>
+		</dict>
+
+			<key>G.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:G</string>
+				<string>=G</string>
+				<string>=-G</string>
+				<string>:-G</string>
+			</array>
+			<key>Name</key>
+			<string>G Gasp</string>
+		</dict>
+
+			<key>happybrace.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:}</string>
+				<string>=}</string>
+				<string>=-}</string>
+				<string>:-}</string>
+			</array>
+			<key>Name</key>
+			<string>} Smile</string>
+		</dict>
+
+
+			<key>sadbrace.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:{</string>
+				<string>={</string>
+				<string>=-{</string>
+				<string>:-{</string>
+			</array>
+			<key>Name</key>
+			<string>{ Frown</string>
+		</dict>
+
+			<key>blank.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:|</string>
+				<string>=|</string>
+				<string>=-|</string>
+				<string>:-|</string>
+			</array>
+			<key>Name</key>
+			<string>| Mouth</string>
+		</dict>
+
+			<key>R.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:R</string>
+				<string>=R</string>
+				<string>=-R</string>
+				<string>:-R</string>
+			</array>
+			<key>Name</key>
+			<string>R Tongue</string>
+		</dict>
+
+			<key>madedesumad.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&gt;:&lt;</string>
+				<string>&gt;=&lt;</string>
+				<string>&gt;=-&lt;</string>
+				<string>&gt;:-&lt;</string>
+			</array>
+			<key>Name</key>
+			<string>&lt; Angry</string>
+		</dict>
+
+
+			<key>madeusedmad.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&gt;:&gt;</string>
+				<string>&gt;=&gt;</string>
+				<string>&gt;=-&gt;</string>
+				<string>&gt;:-&gt;</string>
+			</array>
+			<key>Name</key>
+			<string>&gt; Evil</string>
+		</dict>
+
+
+			<key>F.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:F</string>
+				<string>=F</string>
+				<string>=-F</string>
+				<string>:-F</string>
+			</array>
+			<key>Name</key>
+			<string>F Teeth</string>
+		</dict>
+
+			<key>D.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:D</string>
+				<string>=D</string>
+				<string>=-D</string>
+				<string>:-D</string>
+			</array>
+			<key>Name</key>
+			<string>D Smile</string>
+		</dict>
+
+
+
+
+			<key>angrybracket.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&gt;:[</string>
+				<string>&gt;=[</string>
+				<string>&gt;=-[</string>
+				<string>&gt;:-[</string>
+			</array>
+			<key>Name</key>
+			<string>[ Angry</string>
+		</dict>
+
+
+
+			<key>angrygrin.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&gt;:D</string>
+				<string>&gt;=D</string>
+				<string>&gt;=-D</string>
+				<string>&gt;:-D</string>
+			</array>
+			<key>Name</key>
+			<string>D Evil</string>
+		</dict>
+
+
+
+			<key>el.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:L</string>
+				<string>=L</string>
+				<string>=-L</string>
+				<string>:-L</string>
+			</array>
+			<key>Name</key>
+			<string>L Mouth</string>
+		</dict>
+
+
+			<key>eye.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:I</string>
+				<string>=I</string>
+				<string>=-I</string>
+				<string>:-I</string>
+				<string>:1</string>
+				<string>=-1</string>
+				<string>:-1</string>
+			</array>
+			<key>Name</key>
+			<string>I Mouth</string>
+		</dict>
+
+
+			<key>exexex.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:X</string>
+				<string>=-X</string>
+				<string>:-X</string>
+				<string>=X</string>
+				<string>:x</string>
+				<string>=-x</string>
+				<string>:-x</string>
+			</array>
+			<key>Name</key>
+			<string>X Mouth</string>
+		</dict>
+
+
+
+			<key>happycbig.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>C:</string>
+				<string>C=</string>
+				<string>C-=</string>
+				<string>C-:</string>
+			</array>
+			<key>Name</key>
+			<string>C Smile</string>
+		</dict>
+
+			<key>happyc.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>c:</string>
+				<string>c=</string>
+				<string>c-=</string>
+				<string>c-:</string>
+			</array>
+			<key>Name</key>
+			<string>c Smile</string>
+		</dict>
+
+
+
+
+			<key>happyfaic.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&gt;:]</string>
+				<string>&gt;=]</string>
+				<string>&gt;=-]</string>
+				<string>&gt;:-]</string>
+			</array>
+			<key>Name</key>
+			<string>] Evil</string>
+		</dict>
+
+
+			<key>hmmm.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:/</string>
+				<string>=/</string>
+				<string>=-/</string>
+				<string>:-/</string>
+				<string>:\</string>
+				<string>=\</string>
+				<string>=-\</string>
+				<string>:-\</string>
+			</array>
+			<key>Name</key>
+			<string>/ Mouth</string>
+		</dict>
+
+
+			<key>jay.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:J</string>
+				<string>=J</string>
+				<string>=-J</string>
+				<string>:-J</string>
+			</array>
+			<key>Name</key>
+			<string>J Smile</string>
+		</dict>
+
+
+
+			<key>madnoes.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>D:&lt;</string>
+				<string>D=&lt;</string>
+				<string>D-=&lt;</string>
+				<string>D-:&lt;</string>
+			</array>
+			<key>Name</key>
+			<string>D Angry</string>
+		</dict>
+
+			<key>madO.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&gt;:O</string>
+				<string>&gt;=O</string>
+				<string>&gt;=-O</string>
+				<string>&gt;:-O</string>
+				<string>&gt;:o</string>
+				<string>&gt;=o</string>
+				<string>&gt;=-o</string>
+				<string>&gt;:-o</string>
+			</array>
+			<key>Name</key>
+			<string>O Angry</string>
+		</dict>
+
+			<key>mii.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:M</string>
+				<string>=M</string>
+				<string>=-M</string>
+				<string>:-M</string>
+			</array>
+			<key>Name</key>
+			<string>M Mouth</string>
+		</dict>
+
+
+			<key>ooo.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:.</string>
+				<string>=.</string>
+				<string>=-.</string>
+				<string>:-.</string>
+			</array>
+			<key>Name</key>
+			<string>. Mouth</string>
+		</dict>
+
+
+			<key>Q.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:Q</string>
+				<string>=Q</string>
+				<string>=-Q</string>
+				<string>:-Q</string>
+			</array>
+			<key>Name</key>
+			<string>Q Tongue</string>
+		</dict>
+
+
+
+			<key>ti.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:T</string>
+				<string>=T</string>
+				<string>=-T</string>
+				<string>:-T</string>
+			</array>
+			<key>Name</key>
+			<string>T Mouth</string>
+		</dict>
+
+
+			<key>wiii.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:W</string>
+				<string>=W</string>
+				<string>=-W</string>
+				<string>:-W</string>
+				<string>:w</string>
+				<string>=w</string>
+				<string>=-w</string>
+				<string>:-w</string>
+			</array>
+			<key>Name</key>
+			<string>W Mouth</string>
+		</dict>
+
+			<key>wutno.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:,</string>
+				<string>=,</string>
+				<string>=-,</string>
+				<string>:-,</string>
+			</array>
+			<key>Name</key>
+			<string>, Smile</string>
+		</dict>
+
+
+			<key>BIGO.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:O</string>
+				<string>=O</string>
+				<string>=-O</string>
+				<string>:-O</string>
+			</array>
+			<key>Name</key>
+			<string>O Mouth</string>
+		</dict>
+
+
+	
+			<key>bucktard.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:B</string>
+				<string>=B</string>
+				<string>=-B</string>
+				<string>:-B</string>
+			</array>
+			<key>Name</key>
+			<string>B Teeth</string>
+		</dict>
+	
+			<key>catfish.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>'A'</string>
+			</array>
+			<key>Name</key>
+			<string>A Catfish</string>
+		</dict>
+
+	
+			<key>cfrown.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:C</string>
+				<string>=C</string>
+				<string>=-C</string>
+				<string>:-C</string>
+			</array>
+			<key>Name</key>
+			<string>C Frown</string>
+		</dict>
+
+
+			<key>ColonEE.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:E</string>
+				<string>=E</string>
+				<string>=-E</string>
+				<string>:-E</string>
+			</array>
+			<key>Name</key>
+			<string>E Mouth</string>
+		</dict>
+
+			<key>coloness.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:S</string>
+				<string>=S</string>
+				<string>=-S</string>
+				<string>:-S</string>
+			</array>
+			<key>Name</key>
+			<string>S Mouth</string>
+		</dict>
+
+			<key>colonu.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:U</string>
+				<string>=U</string>
+				<string>=-U</string>
+				<string>:-U</string>
+				<string>:u</string>
+				<string>=u</string>
+				<string>=-u</string>
+				<string>:-u</string>
+			</array>
+			<key>Name</key>
+			<string>U Yelling</string>
+		</dict>
+
+			<key>colonzero.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:0</string>
+				<string>=-0</string>
+				<string>:-0</string>
+			</array>
+			<key>Name</key>
+			<string>0 Gasp</string>
+		</dict>
+
+			<key>colonlessthan.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:&lt;</string>
+				<string>=&lt;</string>
+				<string>=-&lt;</string>
+				<string>:-&lt;</string>
+			</array>
+			<key>Name</key>
+			<string>&lt; Frown</string>
+		</dict>
+
+			<key>displeased.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:[</string>
+				<string>=[</string>
+				<string>=-[</string>
+				<string>:-[</string>
+			</array>
+			<key>Name</key>
+			<string>[ Frown</string>
+		</dict>
+
+			<key>littlecfrown.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:c</string>
+				<string>=c</string>
+				<string>=-c</string>
+				<string>:-c</string>
+			</array>
+			<key>Name</key>
+			<string>c Frown</string>
+		</dict>
+
+			<key>meow.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:3</string>
+				<string>=-3</string>
+				<string>:-3</string>
+			</array>
+			<key>Name</key>
+			<string>3 Cat</string>
+		</dict>
+
+			<key>ohnoes.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>D:</string>
+				<string>D=</string>
+				<string>D-=</string>
+				<string>D-:</string>
+			</array>
+			<key>Name</key>
+			<string>D Gasp</string>
+		</dict>
+
+			<key>lion.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>&gt;:3</string>
+				<string>&gt;:-3</string>
+				<string>&gt;=3</string>
+				<string>&gt;=-3</string>
+			</array>
+			<key>Name</key>
+			<string>3 Lion</string>
+		</dict>
+
+			<key>pleased.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:]</string>
+				<string>=]</string>
+				<string>=-]</string>
+				<string>:-]</string>
+			</array>
+			<key>Name</key>
+			<string>] Smile</string>
+		</dict>
+
+			<key>smile.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:)</string>
+				<string>=)</string>
+				<string>=-)</string>
+				<string>:-)</string>
+				<string>(:</string>
+				<string>(=</string>
+				<string>(-=</string>
+				<string>(-:</string>
+			</array>
+			<key>Name</key>
+			<string>) Smile</string>
+		</dict>
+
+			<key>usedusedused.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:&gt;</string>
+				<string>=&gt;</string>
+				<string>=-&gt;</string>
+				<string>:-&gt;</string>
+			</array>
+			<key>Name</key>
+			<string>&gt; Smile</string>
+		</dict>
+
+			<key>veeee.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:V</string>
+				<string>=V</string>
+				<string>=-V</string>
+				<string>:-V</string>
+				<string>:v</string>
+				<string>=v</string>
+				<string>=-v</string>
+				<string>:-v</string>
+			</array>
+			<key>Name</key>
+			<string>V Yelling</string>
+		</dict>
+
+	</dict>
+
+</dict>
+</plist>

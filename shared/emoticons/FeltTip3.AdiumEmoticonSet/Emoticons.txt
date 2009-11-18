@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/P
+ropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>AdiumSetVersion</key>
+        <integer>1</integer>
+        <key>Emotdicts</key>
+
+<dict><key>smile.png</key>
+   		<string>:-)</string> <string>:)</string></array>
+</dict>
+
+<dict><key>wink.png</key>
+<key>Equivalents</key><array><string>;-)</string> <string>;)</string></array>
+</dict>
+
+<dict><key>grin.png</key>
+<key>Equivalents</key><array><string>:-D</string> <string>:D</string> <string>:d</string> <string>:-d</string></array>
+</dict>
+
+<dict><key>laughing.png</key>
+<key>Equivalents</key><array><string>(old:-D)</string> <string>(old:D)</string> <string>(old:-d)</string> <string>(old:d)</string></array>
+</dict>
+
+<dict><key>meh.png</key>
+<key>Equivalents</key><array><string>:-P</string> <string>:P</string> <string>:-p</string> <string>:p</string></array>
+</dict>
+
+<dict><key>frown.png</key>
+<key>Equivalents</key><array><string>:-(</string> <string>:(</string></array>
+</dict>
+
+<dict><key>boring.png</key>
+<key>Equivalents</key><array><string>:-|</string> <string>:|</string></array>
+</dict>
+
+<dict><key>halfsmile.png</key>
+<key>Equivalents</key><array><string>:-J</string> <string>:J</string> <string>:-j</string> <string>:j</string></array>
+</dict>
+
+<dict><key>sleeping.png</key>
+<key>Equivalents</key><array><string>|-)</string> <string>|)</string> <string>(zzz)</string></array>
+</dict>
+
+<dict><key>ohmygod.png</key>
+<key>Equivalents</key><array><string>:-O</string> <string>:O</string></array>
+</dict>
+
+<dict><key>huh.png</key>
+<key>Equivalents</key><array><string>:-?</string> <string>:?</string> <string>(?)</string></array>
+</dict>
+
+<dict><key>unimpressed.png</key>
+<key>Equivalents</key><array><string>:-/</string> <string>:/</string> <string>:-\</string> <string>:\</string></array>
+</dict>
+
+<dict><key>angry.png</key>
+<key>Equivalents</key><array><string>>:-O</string> <string>>:O</string> <string>>:-o</string> <string>>:o</string> <string>{-O</string> <string>{O</string> <string>{-o</string> <string>{o</string></array>
+</dict>
+
+<dict><key>sour.png</key>
+<key>Equivalents</key><array><string>:-$</string> <string>:$</string> <string>:-S</string> <string>:S</string> <string>:-s</string> <string>:s</string></array>
+</dict>
+
+<dict><key>sick.png</key>
+<key>Equivalents</key><array><string>:-@</string> <string>:@</string></array>
+</dict>
+
+<dict><key>dead.png</key>
+<key>Equivalents</key><array><string>X-P</string> <string>X-P</string> <string>+-P</string> <string>+P</string></array>
+</dict>
+
+<dict><key>aww.png</key>
+<key>Equivalents</key><array><string>:-}</string> <string>:}</string></array>
+</dict>
+
+<dict><key>blush.png</key>
+<key>Equivalents</key><array><string>:-&gt;</string> <string>:&gt;</string> <string>:#)</string></array>
+</dict>
+
+<dict><key>love.png</key>
+<key>Equivalents</key><array><string>:-*</string> <string>:*</string> <string>(l)</string> <string>(L)</string> <string>\~/s</string></array>
+</dict>
+
+<dict><key>cool.png</key>
+<key>Equivalents</key><array><string>B-)</string> <string>B)</string></array>
+</dict>
+
+<dict><key>nerd.png</key>
+<key>Equivalents</key><array><string>8-)</string> <string>8-i</string></array>
+</dict>
+
+<dict><key>yeah.png</key>
+<key>Equivalents</key><array><string>X-D</string> <string>XD</string></array>
+</dict>
+
+<dict><key>heh.png</key>
+<key>Equivalents</key><array><string>;-P</string> <string>;P</string> <string>;-p</string> <string>;p</string></array>
+</dict>
+
+<dict><key>err.png</key>
+<key>Equivalents</key><array><string>{:-D</string> <string>{:D</string> 
+<string>oo;</string> <string>OO;</string></array>
+</dict>
+
+<dict><key>hellyes.png</key>
+<key>Equivalents</key><array><string>&gt;:-D</string> <string>&gt;:D</string></array>
+</dict>
+
+<dict><key>erm.png</key>
+<key>Equivalents</key><array><string>O_o</string> <string>o_O</string> 
+<string>o.O</string> <string>O.o</string> 
+<string>0_o</string> <string>o_0</string> <string>o.0</string> <string>0.o</string></array>
+</dict>
+
+<dict><key>whistling.png</key>
+<key>Equivalents</key><array><string>:-"</string> <string>:"</string></array>
+</dict>
+
+<dict><key>drool.png</key>
+<key>Equivalents</key><array><string>:-D~</string> <string>:D~</string></array>
+</dict>
+
+<dict><key>peaceout.png</key>
+<key>Equivalents</key><array><string>:)>-</string> <string>(Y)</string> <string>(peace)</string></array>
+</dict>
+
+<dict><key>ninja.png</key>
+<key>Equivalents</key><array><string>(:)</string> <string>(ninja)</string></array>
+</dict>
+
+<dict><key>star.png</key>
+<key>Equivalents</key><array><string>(*)</string></array>
+</dict>
+
+<dict><key>logo.png</key>
+<key>Equivalents</key><array><string>(Chromakode)</string> <string>(chromakode)</string></array>
+</dict>
+
+</dict>
+</plist>
