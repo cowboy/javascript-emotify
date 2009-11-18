@@ -408,6 +408,9 @@ a:hover {
   float: right;
   width: 11em;
   margin: 0 0 1em 1em;
+  -moz-box-shadow: 0 0 6px #3D942F;
+  -webkit-box-shadow: 0 0 6px #3D942F;
+  box-shadow: 0 0 6px #3D942F;
 }
 
 #donate form {
