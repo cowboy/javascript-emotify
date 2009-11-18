@@ -28,7 +28,7 @@
 // ways in which this plugin can be used.
 // 
 // Basic Emotification - http://benalman.com/code/projects/javascript-emotify/examples/emotify/
-// Adium Emoticon Sets - http://benalman.com/code/projects/javascript-emotify/examples/adium-emoticonset/
+// Adium Emoticonsets  - http://benalman.com/code/projects/javascript-emotify/examples/adium-emoticonset/
 // 
 // About: Support and Testing
 // 
