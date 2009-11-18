@@ -4,7 +4,7 @@ include "../index.php";
 
 $shell['title3'] = "Basic Emotification";
 
-$shell['h2'] = 'Making the world a better place, one tiny image at a time...';
+$shell['h2'] = 'Making the web a better place, one tiny image at a time...';
 
 // ========================================================================== //
 // SCRIPT
@@ -251,6 +251,7 @@ ob_end_clean();
 
 ob_start();
 ?>
+<?= $shell['donate'] ?>
 
 <p>
   The emoticons in this example are defined in a rather large data structure. For a

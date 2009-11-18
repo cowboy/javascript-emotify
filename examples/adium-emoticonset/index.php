@@ -4,7 +4,7 @@ include "../index.php";
 
 $shell['title3'] = "Adium Emoticonsets";
 
-$shell['h2'] = 'Making the world a better place, one tiny image at a time...';
+$shell['h2'] = 'Making the web a better place, one tiny image at a time...';
 
 
 $emo_base = '../../shared/emoticons/';
@@ -224,6 +224,7 @@ ob_end_clean();
 
 ob_start();
 ?>
+<?= $shell['donate'] ?>
 
 <p>
   This example gets its emoticons by using jQuery to dynamically parse Adium Emoticonsets (among other

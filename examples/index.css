@@ -399,6 +399,20 @@ a:hover {
   color: #FF7F00;
 }
 
+#donate {
+  color: #000;
+  background: #fff;
+  border: 1px solid #3D942F;
+  font-size: 80%;
+  padding: 0.5em;
+  float: right;
+  width: 11em;
+  margin: 0 0 1em 1em;
+}
+
+#donate form {
+  text-align: center;
+}
 
 pre {
   overflow-x: auto;
@@ -412,11 +426,13 @@ pre code {
 
 /* ROUNDED BORDERS */
 
+#donate,
 pre,
 .syntaxhighlighter,
 .syntaxhighlighter .toolbar {
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
+  border-radius: 10px;
 }
 
 /* PRE/CODE BLOCKS, SYNTAX HIGHLIGHTING */
