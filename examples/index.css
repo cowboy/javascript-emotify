@@ -407,7 +407,7 @@ a:hover {
   padding: 0.5em;
   float: right;
   width: 11em;
-  margin: 0 0 1em 1em;
+  margin: 0 0 1.5em 2em;
   -moz-box-shadow: 0 0 6px #3D942F;
   -webkit-box-shadow: 0 0 6px #3D942F;
   box-shadow: 0 0 6px #3D942F;
@@ -415,6 +415,11 @@ a:hover {
 
 #donate form {
   text-align: center;
+}
+
+#donate .submit {
+  width: 74px;
+  height: 21px;
 }
 
 pre {

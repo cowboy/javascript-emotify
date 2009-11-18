@@ -266,8 +266,7 @@ ob_start();
 
 <h3>Input text (edit this)</h3>
 
-<div class="clear"></div>
-<form action="" method="get">
+<form action="" method="get" class="clear">
   <textarea name="emotify">This is some :-) sample text :P with a few  :-* smilies X( like :( this :(( and :)) that.. The only :-B rule is that =; each smiley L-) must ;) be :-& surrounded @-) by :ar! whitespace!
 
 <):) <):) <):) COWBOY HATS! <):) <):) <):)</textarea>
