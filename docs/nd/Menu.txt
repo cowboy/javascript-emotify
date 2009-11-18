@@ -46,7 +46,7 @@ Format: 1.4
 # --------------------------------------------------------------------------
 
 
-File: JavaScript Emotify: This is what it sounds like when HTML cries  (ba-emotify.js)
+File: .  (ba-emotify.js)
 
 Group: Index  {
 

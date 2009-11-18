@@ -7,7 +7,7 @@
  * http://benalman.com/about/license/
  */
 
-// Script: JavaScript Emotify: This is what it sounds like when HTML cries
+// Script: JavaScript Emotify: Making the web a better place, one tiny image at a time...
 //
 // *Version: 0.6, Last updated: 11/17/2009*
 // 

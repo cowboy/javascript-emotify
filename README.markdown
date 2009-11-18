@@ -1,10 +1,9 @@
-# JavaScript Emotify: This is what it sounds like when HTML cries #
+# JavaScript Emotify: Making the web a better place, one tiny image at a time... #
 [http://benalman.com/projects/javascript-emotify/](http://benalman.com/projects/javascript-emotify/)
 
 Version: 0.6, Last updated: 11/17/2009
 
-Making the world a better place, one tiny image at a time... Seriously though, this code
-turns text into "emotified" HTML. You know, like, with smileys.
+JavaScript Emotify helps make the web a better place, one tiny image at a time... (the original title was "this is what it sounds like when HTML cries" but Prince's lawyers sent me a C&D citing, get this, "bad taste"). Seriously though, this code turns text into "emotified" HTML. You know, like, with smileys.
 
 Visit the [project page](http://benalman.com/projects/javascript-emotify/) for more information and usage examples!
 
